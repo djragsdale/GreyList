@@ -4,8 +4,8 @@
   "description": "Optimized performance of the everyday routine.",
   "main": "server.js",
   "repository": {
-	  "type": "git",
-	  "url": "git+https://github.com/djragsdale/greylist.git"
+    "type": "git",
+    "url": "git+https://github.com/djragsdale/greylist.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/djragsdale/greylist#readme",
   "dependencies": {
+    "@angular/cli": "^8.3.8",
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3",
     "cors": "^2.8.1",
